@@ -18,16 +18,16 @@ Analyzing employee turnover rates using Power BI
 - `Attrition Dashboard.pbix` → ملف Power BI الرئيسي 
 - `Screenshots/` → صور توضيحية
 
-### الداشبورد الرئيسي
-(screenshots/MainDashboard.png)
+## صور توضيحية
 
+### الداشبورد الرئيسي
+![الداشبورد الرئيسي](screenshots/MainDashboard.png)
 
 ### تحليل سنوات عدم الترقية
-(screenshots/promotion.png)
-
+![سنوات عدم الترقية](screenshots/promotion.png)
 
 ### تحليل المسافة من المنزل
-(screenshots/distance.png)
+![المسافة من المنزل](screenshots/distance.png)
 
 
 ## كيفية تشغيل المشروع
