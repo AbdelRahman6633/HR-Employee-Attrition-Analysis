@@ -22,13 +22,13 @@ Analyzing employee turnover rates using Power BI
 
 
 ### الداشبورد الرئيسي
-![الداشبورد الرئيسي](screenshots/dashboard.png)
+![الداشبورد الرئيسي](main-dashboard.png)
 
 ### تحليل سنوات عدم الترقية
-![سنوات عدم الترقية](screenshots/promotion.png)
+![سنوات عدم الترقية](promotion.png)
 
 ### تحليل المسافة من المنزل
-![المسافة من المنزل](screenshots/distance.png)
+![المسافة من المنزل](distance.png)
 
 
 ## كيفية تشغيل المشروع
